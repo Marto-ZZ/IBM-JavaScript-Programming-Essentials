@@ -1,1 +1,0 @@
-# IBM-JavaScript-Programming-Essentials
